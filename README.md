@@ -32,7 +32,13 @@ THEN a password is generated that matches the selected criteria
 <br>
 WHEN the password is generated
 <br>
-THEN the password is either displayed in an alert or written to the page
+THEN the password is either displayed in an alert or written to the
 
 
 Below is a video showing the functionality of the application
+
+https://user-images.githubusercontent.com/111482233/220739347-954d32e1-1859-4ab0-ba34-df088c9bc0a7.mov
+
+ page
+
+
